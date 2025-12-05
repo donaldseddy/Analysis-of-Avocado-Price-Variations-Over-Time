@@ -32,9 +32,7 @@ Sélectionner le meilleur modèle pour la prédiction.
 ├── notebooks/
 │   └── time_series_conso.ipynb
 ├── src/
-│   ├── preprocessing.py
-│   ├── forecasting.py
-│   └── evaluation.py
+│   ├── fonctions
 ├── README.md
 └── requirements.txt
 
